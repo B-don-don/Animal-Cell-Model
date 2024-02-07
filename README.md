@@ -1,6 +1,7 @@
 # Animal-Cell-Model
 
 A model of an animal cell with color coding to make identification easier
+
 ⚠️This work is protected by a  GNU Affero General Public License (AGPL-3.0) meaning that "Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed." (https://www.gnu.org/licenses/gpl-3.0.en.html) For mor information on the AGPL-3.0 license and it's strict terms of use visit https://github.com/B-don-don/Animal-Cell-Model?tab=AGPL-3.0-1-ov-file#readme ⚠️
 
  
